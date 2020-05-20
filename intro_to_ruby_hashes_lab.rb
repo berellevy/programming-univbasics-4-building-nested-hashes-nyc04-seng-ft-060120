@@ -1,6 +1,5 @@
 def base_hash
-    monopoly = {:railraods => {}}
-    return monopoly
+    {:railraods => {}}
 
 end
 
